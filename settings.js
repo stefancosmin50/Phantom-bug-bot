@@ -8,13 +8,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
+global.ownernomer = "0770811929"
 global.ownername = "*Phantom+Hacker"
 global.ytname = "YT: phantom-hacks01"
 global.socialm = ""
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '2348108395270'  //creator number
+global.ownernumber = '0770811929'  //creator number
 global.ownername = 'Phantom+Hacker' //owner name
 global.botname = 'xbug bot' //name of the bot
 
